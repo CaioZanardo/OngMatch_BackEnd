@@ -2,13 +2,13 @@
 
 ### Docker
 
-Após baixar repositorio rodar o comando na raiz:
+- Após baixar repositorio rodar o comando na raiz:
 
-docker-compose up (Vai subir os container a partir do docker-compose.yml)
+- docker-compose up (Vai subir os container a partir do docker-compose.yml)
 
 ### Apache
 
-Para acessar o front http://localhost:8080
+- Para acessar o front http://localhost:8080
 
 ### Banco
 Para utilizar o banco existe um script na estrutura src/db/dbcadastrouser.sql

@@ -4,7 +4,7 @@
 
 - Após baixar repositorio rodar o comando na raiz:
 
-- docker-compose up (Vai subir os container a partir do docker-compose.yml)
+- docker-compose up (Vai subir os containers a partir do docker-compose.yml)
 
 ### Apache
 

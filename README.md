@@ -25,12 +25,11 @@ Para cadastrar um User via postman:
 - Body: selecionar "raw";
 - enviar Json:
 
+```json
 {
-
     "user": "(nome_desejado)"
-    
 }
-
+```
 
 ## Grupo
 

@@ -24,8 +24,11 @@ Para cadastrar um User via postman:
 - URL: http://localhost/api/add-api.php
 - Body: selecionar "raw";
 - enviar Json:
+
 {
+
     "user": "(nome_desejado)"
+    
 }
 
 
